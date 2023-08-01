@@ -17,7 +17,7 @@ function App() {
       <Link to="/Blue">Blue</Link>
       <Link to="/Red">Red</Link>
       <Link to="/">Home</Link>
-    </div>
+    </div>git 
     <div id="main-section">
       <Routes>
         <Route path="/Blue" element={<Blue/>} />
